@@ -5,7 +5,10 @@ export default function Footer() {
       <div className="footer">
          <p>
             © 2020 copywrites | All right reserved. Terms & conditions. Made by{" "}
-            <a href="https://www.linkedin.com/in/shashank-dubey-4495a3175/">
+            <a
+               href="https://www.linkedin.com/in/shashank-dubey-4495a3175/"
+               target="_blank"
+            >
                Shashank Dubey
             </a>
          </p>
